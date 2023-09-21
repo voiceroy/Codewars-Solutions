@@ -1,0 +1,18 @@
+# Rust
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C
+*.d
+*.o
+*.obj
+*.elf
+*.out
+*.pdb
