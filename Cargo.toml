@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "Rust/Solutions/kyu_8",
+    "Rust/Solutions/kyu_6",
+    "Rust/Solutions/kyu_7",
+    "Rust/Solutions/kyu_5"
+]
