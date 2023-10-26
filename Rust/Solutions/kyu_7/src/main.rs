@@ -2,6 +2,7 @@ mod alphabet_summary;
 mod build_a_square;
 mod check_the_exam;
 mod count_the_digit;
+mod count_the_divisors_of_a_number;
 mod deodorant_evaporator;
 mod divide_and_conquer;
 mod fix_string_case;
